@@ -147,6 +147,3 @@ These improvements allow the scheduler to react quickly to changing task require
 5. IEEE Xplore (10065487)
 
 ---
-
-This project was developed for academic and educational purposes as part of the Data Structures and Algorithms course.
-
